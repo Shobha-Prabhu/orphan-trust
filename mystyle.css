@@ -52,7 +52,7 @@ a{
 	text-align:center;
 	color:red;
 	font-size:5px;
-	background:url('bg.jpg');
+	background-image:url('bg.jpg');
         background-repeat:none;
         Width:100%;
 	}
